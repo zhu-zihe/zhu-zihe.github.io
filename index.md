@@ -5,7 +5,7 @@ title: 首页
 
 # 👋 欢迎来到我的网站
 
-这是我的GitHub Pages个人网站，使用Jekyll构建。
+这是我的GitHub Pages个人博客，使用Jekyll构建。
 
 ## 📝 最新文章
 
@@ -15,12 +15,12 @@ title: 首页
 
 ## 🎯 关于我
 
-这里是你的个人介绍。可以写一些关于你的兴趣、技能等信息。
+我是一名飞友，同时喜欢电脑
 
 ## 📫 联系方式
 
-- GitHub: [你的用户名](https://github.com/你的用户名)
-- 邮箱: 你的邮箱@example.com
+- GitHub: [zhu-zihe](https://github.com/zhu-zihe)
+- 邮箱: 18963616169@163.com
 
 ---
 
